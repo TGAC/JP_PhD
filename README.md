@@ -2,7 +2,7 @@
 
 Supplementary tables are provided for each chapter:
 
-**Ch2_SupplementaryTables.xlsx** - Gene pseudogenization in fertility-associated genes in cheetah (\textit{Acinonyx jubatus}), a species with long-term low effective population size
+**Ch2_SupplementaryTables.xlsx** - Gene pseudogenization in fertility-associated genes in cheetah (_Acinonyx jubatus_), a species with long-term low effective population size
 
 **Ch3_SupplementaryTables.xlsx** - Machine learning applications to predict functional non-coding regions in non-model species
 
